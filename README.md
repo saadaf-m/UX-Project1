@@ -33,7 +33,15 @@ Checklist: Are you ready to start recruiting participants? Before journeying on 
 2. Have you written interview questions? <br>
 3. Have you created a screener survey to find a representative sample of study participants? <br>
 
-Following that, I developed empathy maps for each (useful) interviewee to help organize all the information I acquired from a single person. From there, I identified each user's pain points. Note that most pain points fall into 4 categories:
+Following that, I developed empathy maps for each (useful) interviewee to help organize all the information I acquired from a single person. From there, I identified each user's pain points. End then finally, I marked off the end of the Brainstorming phase by grouping as much data as I could and building out 3 personas that in some way were a composure of some of the data collected from the plethora of info collected from the small business owners. <br><br>
+
+To recap, the goal of the brainstorming phase is to gather insights about the users, their needs, and the opportunities for solving their problems. This is where activities like user interviews, surveys, and building personas take place.
+
+# Define
+At this point we are in the Define phase of the Product Development Life Cycle. In this phase, the insights gathered during research are synthesized and used to define the product's goals, user needs, and project scope. Key artifacts such as personas, user journeys, and problem statements are finalized here to ensure alignment between the user needs and the business objectives.
+<br><br>
+
+Note that most pain points fall into 4 categories:
 1. Financial: User problems related to money. 
     - _(E.g., Opening an article only to be blocked by a paywall)_
 2. Product: Quality issues related to the product. _(E.g., Norman doors)_
