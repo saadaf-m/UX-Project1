@@ -1,1 +1,7 @@
-# UX-Project1
+# UX Project
+The purpose of this repository is to track and journal my progress building out a UX Design project while following Google's UX Design Certificate course on Coursera. Throughout this project, I will apply The Design Thinking Framework, on top of the Product Development Life Cycle as a guideline. To recap, the Design Thinking Framework is a user-centered approach to problem-solving that consists of the phases: Empathize, Define, Ideate, Prototype, and Test. But note that this is cyclical, just like the PDLC. And also recap the stages of the PDLC: Brainstorm, Define, Design, Test, Launch.
+<br><br>
+I will treat this repository informally so more like a journal. To start with, I began this project in the beginning of October. Today is October 22, 2024. Throughout the last 3 weeks, I took some time off to work on other things in order to help build my career, hence why I'm not as far as we should be, but aside from this project, we generally stayed productive. As of current, we remain in the brainstorming phase.
+
+## Phase 1: Brainstorm
+The brainstorming phase is when the team starts thinking of an idea for a product. This was partially done for me considering that the course highly suggested that I select a prompt from a list of 25 prompts so that I can best follow along with the course. I selected **#21: Design an app and a responsive website that help small business owners send and track invoices for their services.** But beyond that, the rest was on my shoulders. 
