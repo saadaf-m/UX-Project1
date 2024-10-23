@@ -3,7 +3,7 @@ The purpose of this repository is to track and journal my progress building out 
 <br><br>
 I will treat this repository informally so more like a journal. To start with, I began this project in the beginning of October. Today is October 22, 2024. Throughout the last 3 weeks, I took some time off to work on other things in order to help build my career, hence why I'm not as far as we should be, but aside from this project, we generally stayed productive. As of current, we remain in the brainstorming phase.
 
-## Phase 1: Brainstorm
+# Phase 1: Brainstorm
 The brainstorming phase is when the team starts thinking of an idea for a product. This was partially done for me considering that the course highly suggested that I select a prompt from a list of 25 prompts so that I can best follow along with the course. I selected **#21: Design an app and a responsive website that help small business owners send and track invoices for their services.** But beyond that, the rest was on my shoulders. After I decided on a prompt, next was to begin identifying problems that I wanted to solve (with my product). So I initiated this segment by researching into product competitors to identify if there are already similar products available in the market. While doing so I kept in mind the importance in which that **You want your product to fill a gap in the market or solve a problem better than existing products.**
 <br><br>
 Researching into product competitors helped me further develop my understanding of business management a bit better, but it wasn't enough to help me discover pain points considering I'm not yet a small business owner myself. Therefore, on top of the product competitor analysis, I had to conduct user research as well. I took the opportunity to conduct user interviews with real small business owners in real stores in my local area. 
@@ -38,7 +38,7 @@ Following that, I developed empathy maps for each (useful) interviewee to help o
 
 To recap, the goal of the brainstorming phase is to gather insights about the users, their needs, and the opportunities for solving their problems. This is where activities like user interviews, surveys, and building personas take place.
 
-# Define
+# Phase 2: Define
 At this point we are in the Define phase of the Product Development Life Cycle. In this phase, the insights gathered during research are synthesized and used to define the product's goals, user needs, and project scope. Key artifacts such as personas, user journeys, and problem statements are finalized here to ensure alignment between the user needs and the business objectives.
 <br><br>
 
