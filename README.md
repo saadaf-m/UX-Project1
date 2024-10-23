@@ -26,9 +26,10 @@ Up until this point, the user research segment of the brainstorming phase took b
   - To perform this exercise, take one of your user profiles, imagine yourself as [user] and try to anticipate:
     - How [user] might answer the interview questions. Make sure to write it down.
     - How [user’s] needs, challenges, and/or concerns will be addressed
-   
 <br>
-Checklist: Are you ready to start recruiting participants? Before journeying on my way to local businesses, I made sure I answered yes to all of the following: <br>
+
+#### (Checklist) Are you ready to start recruiting participants? 
+Before journeying on my way to local businesses, I made sure I answered yes to all of the following:
 1. Have you determined the research goals? <br>
 2. Have you written interview questions? <br>
 3. Have you created a screener survey to find a representative sample of study participants? <br>
