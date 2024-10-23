@@ -9,3 +9,37 @@ The brainstorming phase is when the team starts thinking of an idea for a produc
 Researching into product competitors helped me further develop my understanding of business management a bit better, but it wasn't enough to help me discover pain points considering I'm not yet a small business owner myself. Therefore, on top of the product competitor analysis, I had to conduct user research as well. I took the opportunity to conduct user interviews with real small business owners in real stores in my local area. 
 <br><br> On a side note, I genuinely enjoyed conducting user interviews in real life. I learned more about myself than the product I was developing, but don't let that statement take away from how much information I acquired from the user interview process!!
 <br><br>
+Up until this point, the user research segment of the brainstorming phase took by far the most time. To conduct great user interviews means you have to have had acquired good user research to begin with. Below are a few best practises and foundational work I followed in preparation for the user interviews:
+- Create Research Goals
+  - Purpose: To help guide the interview questions
+  - Purpose: To help guide future design decisions
+  - For Example: I want to understand common challenges people face when trying to manage a busy schedule and when meal planning.
+- Determine Target Audience
+  - + List key characteristics of the users they want to interview
+- Write a list of interview questions in advance
+  - Effective interview questions have 5 characteristics: They are relevant, open-ended, clear, neutral, and designed for follow-up.
+  - For Example:
+    - What is your current schedule like? How do you balance your responsibilities with meal planning?
+    - What challenges do you face in the ordering process? **How do these challenges make you feel?**
+      - The signifance of the last question is that there weren't specific words like "challenged/frustrated" being used because it's not open-ended anymore and it could potentially put the interviewee in position where the they might feel embarassed or offended. IOW be careful how you word your questions.
+- _Pre-Interview Empathy Exercise_
+  - To perform this exercise, take one of your user profiles, imagine yourself as [user] and try to anticipate:
+    - How [user] might answer the interview questions. Make sure to write it down.
+    - How [user’s] needs, challenges, and/or concerns will be addressed
+   
+<br>
+Checklist: Are you ready to start recruiting participants? Before journeying on my way to local businesses, I made sure I answered yes to all of the following: <br>
+1. Have you determined the research goals? <br>
+2. Have you written interview questions? <br>
+3. Have you created a screener survey to find a representative sample of study participants? <br>
+
+Following that, I developed empathy maps for each (useful) interviewee to help organize all the information I acquired from a single person. From there, I identified each user's pain points. Note that most pain points fall into 4 categories:
+1. Financial: User problems related to money. 
+    - _(E.g., Opening an article only to be blocked by a paywall)_
+2. Product: Quality issues related to the product. _(E.g., Norman doors)_
+3. Process: Frustrations that stop the user going from point A to point B. 
+    - _(E.g., Shopping online and struggling to get the item you want to check out)_
+4. Support: When users interact with your product, they might have questions. If they can't find answers to their questions, they won't feel supported. 
+    - _(E.g., Customer service info that’s hidden on a website)_
+
+
