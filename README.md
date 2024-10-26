@@ -88,11 +88,41 @@ See with the current business-tracking apps out there, for a younger demographic
 I'm still not done testing other products. I'd like to test between 2-3 other products at least. I feel stuck but that's because I was just blindly testing products without a workflow or a framework. In this research phase, the most experience I'd say I developed is being courageous and going up to people, delivering questions to them, presenting myself to them in a way where they can trust me enough to give me 5-10 minutes of their time and be open to answer my questions; and the second being that with competitor analysis, please create or follow a framework/workflow before blindly testing stuff, or you will get lost. 
 
 ### Oct. 26:
-Today I will finish competitor analysis. I'm going to look at at least 2-3 competitor apps. 
-Focal points of each product that will be analyzed:
-- Invoice creation
-- Payment tracking
-- Expense overview
-- Reporting capabilities (generating summaries or visualizations of financial data)
+Today I will finish competitor analysis. I'm going to delve into at least 2-3 competitor apps and their mobile app counterpart. First, I begin the workflow by identifying what core functionality I even want to test. Reminder that the project is about designing an app that helps small business owners send and track invoices for their services, and nothing more. A part of why I got stuck during competitive analysis as well is because I got overwhelmed at the complexity of the products that exists. I started noting down things that - given the project - didn't even matter.
 
-I'm going to identify what works well in that facet. To elaborate on "what works well", I am going to look at how quickly you can send an invoice, starting from opening the app (as point A) and the invoice being sent (as point B). 
+### Testing Core Functionality 
+Below are focal points of each product I will evaluate for their effectiveness and efficiency:
+- Invoice creation
+  - Test speed of this task
+  - This is a common repeated task. What does the app do to streamline repition?
+  - Is there a cognitive load involved in this task?
+  - Are there any interaction costs involved with this task?
+  - What parts of this task do you see effectiveness of the design stand out?
+- Payment tracking
+  - Is there a cognitive load involved in this task?
+  - Are there any interaction costs involved with this task?
+  - What parts of this task do you see effectiveness of the design stand out?
+- Expense overview
+  - Is there a cognitive load involved in this task?
+  - Are there any interaction costs involved with this task?
+  - What parts of this task do you see effectiveness of the design stand out?
+- Reporting capabilities (generating summaries or visualizations of financial data)
+  - Are there any interaction costs involved with this task?
+
+### Analyzing User Interface and Interaction Patterns
+- Document recurring UX/UI patterns that are small business-friendly and evaluate how these patterns add value to the user experience such as:
+  - quick-access buttons
+  - quick-action menu
+  - status icons
+  - dashboard summaries
+  - dynamic search and filtering
+  - personalized insights
+    - (e.g., highest-paying client, profit/expenses today/last wk, profit/expenses today vs. yday, etc.)
+  - Tooltips
+  - Mobile: Is it mobile-friendly?
+    - Does it have elements like larger buttons?
+    - Is the navigation simplified?
+    - Are common actions easy to access or streamlined?
+- Take note of colour coding for status updates and evaluate how this adds value to the user experience.
+- Take note of layout choices that aid in quick decision-making and evaluate how this adds value to the user experience.
+  - How easily could a non-expert navigate and complete tasks?
