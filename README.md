@@ -68,16 +68,31 @@ Note that most pain points fall into 4 categories:
 
 
 # Journal
-Oct. 22: To start with, I began this project in the beginning of October. As I write this, today is October 22, 2024. Note that throughout the last 3 weeks, I took some time off to work on other things in order to help build my career, hence why I'm not as far as I should be.
-<br><br>
-Oct. 23: After collecting user data from my user interviews, I watched some more YouTube videos from UXers to gain insight as to whether I chose the right prompt to work on. Mind you, I really had one other prompt in mind provided by the course, which was prompt **#4: Design an app and a responsive eCommerce website that enable gamers to purchase gaming equipment.** The reason being is because I'm building a personal online brand myself - which is e-commerce related - so I thought that I could interchange "gaming equipment" with "clothing" and kill 2 birds with one stone. However after watching several YouTuber's videos they heavily emphasized not to do something e-commerce related; it's just the most generic thing out there next to food delivery app. 
-<br><br>
-If I went with #4, I would have built out a really cool and creative idea for an experience I wanted to develop. But first and foremost, in the context of UX Design and Product Design, **you want your product to fill a gap in the market or solve a problem better than existing products.** Also, **Jumping straight into design without any sort of logic or reasoning behind your design choices will result in a pretty... but pretty USELESS design.** 
-<br><br>
+### Oct. 22: 
+To start with, I began this project in the beginning of October. As I write this, today is October 22, 2024. Note that throughout the last 3 weeks, I took some time off to work on other things in order to help build my career, hence why I'm not as far as I should be.
+
+### Oct. 23: 
+After collecting user data from my user interviews, I watched some more YouTube videos from UXers to gain insight as to whether I chose the right prompt to work on. Mind you, I really had one other prompt in mind provided by the course, which was prompt **#4: Design an app and a responsive eCommerce website that enable gamers to purchase gaming equipment.** The reason being is because I'm building a personal online brand myself - which is e-commerce related - so I thought that I could interchange "gaming equipment" with "clothing" and kill 2 birds with one stone. However after watching several YouTuber's videos they heavily emphasized not to do something e-commerce related; it's just the most generic thing out there next to food delivery app. <br><br>
+
+If I went with #4, I would have built out a really cool and creative idea for an experience I wanted to develop. But first and foremost, in the context of UX Design and Product Design, **you want your product to fill a gap in the market or solve a problem better than existing products.** Also, **Jumping straight into design without any sort of logic or reasoning behind your design choices will result in a pretty... but pretty USELESS design.** <br><br>
+
 That information helped me stick with my prompt. However, what convinced me most to stick with my prompt was simply making this GitHub repository and organizing, documenting my data and journey, as well as regurgitating what I learned from the Google UX Design Course.
 
-Oct. 25: I've been struggling at this stage a bit because in the UX course, I feel like the UXR part was went over very broadly, and from the brainstorming - it moved to persona building very quickly. I took the user interviews very seriously. That said, I threw myself in the deep end struggled with the research but I could definitely say I've acquired some knowledge myself of how to perform user research. <br><br>
+### Oct. 25: 
+I've been struggling at this stage a bit because in the UX course, I feel like the UXR part was went over very broadly, and from the brainstorming - it moved to persona building very quickly. I took the user interviews very seriously. That said, I threw myself in the deep end struggled with the research but I could definitely say I've acquired some knowledge myself of how to perform user research. <br><br>
+
 Today and yesterday I was testing other popular business-management products for small business, though I initially searched "free invoicee tracking apps". I learned that the competitor products were all very complex and good apps, but they weren't _just_ invoice tracking apps; They were all made to manage an entire business, and the invoice/accounting section is a mere facet of the entire product. This is where I first seen an opportunity for me to create something simpler made just for invoice tracking (It gave me other ideas as well for betting apps). I also seen an opportunity that maybe I can create an invoice tracking apps for a younger demographic of people, particularly age range between ages 12-24. <br><br>
-See with the current business-tracking apps out there, for a younger demographic, they don't need all that. I believe that they'd enjoy the feel of an incredibly easy-to-use, quick money-tracking application of some sort that focuses on one facet of a business. I think its a good idea to create an app that focuses on a group of related metrics of a business to help the youth get themselves a feel of financial organization. I think its also very important to find a way to spike their dopamine levels. I'm thinking of how in betting apps you feel so good after seeing green, or check marks. Maximize visuals and interactions whereever possible and minimize visuals when things don't go their way (e.g., if expense is made, reduce the amount of red whereever possible compared to when a payment is recieved to make them feel less bad).
-<br><br>
+
+See with the current business-tracking apps out there, for a younger demographic, they don't need all that. I believe that they'd enjoy the feel of an incredibly easy-to-use, quick money-tracking application of some sort that focuses on one facet of a business. I think its a good idea to create an app that focuses on a group of related metrics of a business to help the youth get themselves a feel of financial organization. I think its also very important to find a way to spike their dopamine levels. I'm thinking of how in betting apps you feel so good after seeing green, or check marks. Maximize visuals and interactions whereever possible and minimize visuals when things don't go their way (e.g., if expense is made, reduce the amount of red whereever possible compared to when a payment is recieved to make them feel less bad). <br><br>
+
 I'm still not done testing other products. I'd like to test between 2-3 other products at least. I feel stuck but that's because I was just blindly testing products without a workflow or a framework. In this research phase, the most experience I'd say I developed is being courageous and going up to people, delivering questions to them, presenting myself to them in a way where they can trust me enough to give me 5-10 minutes of their time and be open to answer my questions; and the second being that with competitor analysis, please create or follow a framework/workflow before blindly testing stuff, or you will get lost. 
+
+### Oct. 26:
+Today I will finish competitor analysis. I'm going to look at at least 2-3 competitor apps. 
+Focal points of each product that will be analyzed:
+- Invoice creation
+- Payment tracking
+- Expense overview
+- Reporting capabilities (generating summaries or visualizations of financial data)
+
+I'm going to identify what works well in that facet. To elaborate on "what works well", I am going to look at how quickly you can send an invoice, starting from opening the app (as point A) and the invoice being sent (as point B). 
