@@ -90,7 +90,7 @@ I'm still not done testing other products. I'd like to test between 2-3 other pr
 ### Oct. 26:
 Today I will finish competitor analysis. I'm going to delve into at least 2-3 competitor apps and their mobile app counterpart. First, I begin the workflow by identifying what core functionality I even want to test. Reminder that the project is about designing an app that helps small business owners send and track invoices for their services, and nothing more. A part of why I got stuck during competitive analysis as well is because I got overwhelmed at the complexity of the products that exists. I started noting down things that - given the project - didn't even matter.
 
-### Testing Core Functionality 
+### 1. Testing Core Functionality 
 Below are focal points of each product I will evaluate for their effectiveness and efficiency:
 - Invoice creation
   - Test speed of this task
@@ -109,7 +109,7 @@ Below are focal points of each product I will evaluate for their effectiveness a
 - Reporting capabilities (generating summaries or visualizations of financial data)
   - Are there any interaction costs involved with this task?
 
-### Analyzing User Interface and Interaction Patterns
+### 2. Analyzing User Interface and Interaction Patterns
 - Document recurring UX/UI patterns that are small business-friendly and evaluate how these patterns add value to the user experience such as:
   - quick-access buttons
   - quick-action menu
@@ -126,3 +126,25 @@ Below are focal points of each product I will evaluate for their effectiveness a
 - Take note of colour coding for status updates and evaluate how this adds value to the user experience.
 - Take note of layout choices that aid in quick decision-making and evaluate how this adds value to the user experience.
   - How easily could a non-expert navigate and complete tasks?
+ 
+### 3. Assess Accessibility and Mobile Optimization
+- Is the usability on mobile and desktop equally intuitive?
+- Is the mobile workflow of tasks more optimized? When answering, consider:
+  - Simplified navigation?
+  - Task execution requires equal or less clicks?
+- Are there any features that enhance mobile interaction? (Note that by "enhance", I mean designing features or layouts that make using the app on mobile devices easy, efficient, and enjoyable. For example for an invoicing app, this involves adapting the interface to support tasks on smaller screens and touch interactions, ensuring that the experience is smooth and free from common mobile usability issues.) Below describe some features and layouts that improve or "enhance" mobile interaction:
+  - Responsive Layout: Does it adapt to various screen sizes, use touch-friendly buttons, larger fonts?
+  - Sticky Navigation
+  - Gesture-Based Interaction: Does it have swipe-to-delete or swipe-to-archive type actions?
+  - Quick-Add Buttons: Floating "+" button without having to navigate to another screen? Predict next interaction?
+  - Thumb-Friendly Design
+
+### 4. Identify Strengths, Pain Points, and Opportunities for Optimization
+- Make a list of standout features or strengths and make another list for friction points or overly complex workflows.
+  - For each pt. in list 2, consider: Are ways that each point could be simplified without sacrificing functionality?
+- Highlight any gaps where an opportunity exists to improve or simplify the experience.
+
+### 5. Conclusion: Synthesize UX Pattern Findings into Actionable Insights
+- Summarize common patterns or design approaches that provide a strong user experience **for** small business owners.
+  - Common patterns/design approaches such as the use of icons, navigation layouts, dashboard configurations that prioritize clarity.
+- Note unique or creative solutions that competitors use to address small busines challenges (e.g., quick-glance financial summary). These can inform potential features or patterns that you could adapt to your design.
