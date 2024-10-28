@@ -107,11 +107,15 @@ Below are focal points of each product I will evaluate for their effectiveness a
   - **Usability and Effectiveness:** Do design elements (like color-coding, labels, or grouped actions) assist the user in tracking and managing payments effectively?
   - **Notifications and Alerts:** Are reminders or alerts sent for overdue payments or upcoming due dates? How are these alerts displayed, and can they be customized?
 - Expense overview
-  - Is there a cognitive load involved in this task?
-  - Are there any interaction costs involved with this task?
-  - What parts of this task do you see effectiveness of the design stand out?
+  - **Information Layout:** Are expenses broken down logically (e.g., by category, date, or project) to minimize search time?
+  - **Cognitive Load:** Does the layout support quick understanding, or does it overwhelm the user with unnecessary details?
+  - **Interaction Costs:** Are there minimal steps to filter, sort, or add new expenses?
+  - **Effectiveness:** How well does the visual hierarchy (e.g., use of whitespace, bold fonts, icons) support users’ comprehension of expenses?
 - Reporting capabilities (generating summaries or visualizations of financial data)
-  - Are there any interaction costs involved with this task?
+  - **Task Clarity:** How easily can users generate reports or summaries for financial data?
+  - **Cognitive Load:** Are options for customization (e.g., date range, data type) accessible and clear?
+  - **Interaction Costs:** Are there extra steps or confusing settings involved in creating meaningful reports?
+  - **Effectiveness in Visual Design:** Are the visualizations (charts, graphs) easy to interpret? Is there flexibility in format without compromising simplicity?
 
 ### 2. Analyzing User Interface and Interaction Patterns
 - Document recurring UX/UI patterns that are small business-friendly and evaluate how these patterns add value to the user experience such as:
@@ -152,3 +156,13 @@ Below are focal points of each product I will evaluate for their effectiveness a
 - Summarize common patterns or design approaches that provide a strong user experience **for** small business owners.
   - Common patterns/design approaches such as the use of icons, navigation layouts, dashboard configurations that prioritize clarity.
 - Note unique or creative solutions that competitors use to address small busines challenges (e.g., quick-glance financial summary). These can inform potential features or patterns that you could adapt to your design.
+
+
+### Oct. 27-28
+I did NOT finish competitor analysis. To be fair, I got a bit distracted from the last two days, but besides that, me being as productive as I can be today, I learned that a competitor analysis is incredibly time consuming. It has so far involved:
+- Note taking
+- critiquing every detail of the product
+- journaling how I feel at the given moment using a specific feature
+- pushing a product to its limits; trying to break the product
+
+But your assessment is as good as your questions. So learning to ask better questions is also involved.
