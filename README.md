@@ -93,19 +93,19 @@ Today I will finish competitor analysis. I'm going to delve into at least 2-3 co
 ### 1. Testing Core Functionality 
 Below are focal points of each product I will evaluate for their effectiveness and efficiency:
 - Invoice creation
-  - Test speed of this task
-  - This is a common repeated task. What does the app do to streamline repition?
-  - Is there a cognitive load involved in this task?
-  - Are there any interaction costs involved with this task?
-  - What parts of this task do you see effectiveness of the design stand out?
-  - Error prevention and correction: Does the app prevent common user errors (like duplicate entries) or provide useful feedback when they occur?
-  - Personalization: Does the app allow templates or auto-population of recurring information, saving users time?
+  - **Task Completion Speed:** How quickly can the user complete the invoice creation task?
+  - **Repetition Management:** This is a commonly repeated task. What does the app do to streamline repetition?
+  - **Cognitive Load:** Is there a cognitive load involved in this task?
+  - **Interaction Costs:** How many clicks, screens, or inputs are required to create a standard invoice?
+  - **Effectiveness Indicators:** What elements enhance or detract from the overall ease of invoice creation?
+  - **Error prevention and correction:** Does the app prevent common user errors or provide useful feedback when they occur?
+  - **Personalization:** Does the app allow templates or auto-population of recurring information, saving users time?
 - Payment tracking
-  - Task Simplification: Does the app make it easy to distinguish between paid, unpaid, and overdue invoices at a glance?
-  - Cognitive Load: How intuitively are payment statuses displayed? Are users likely to understand statuses without extra interpretation?
-  - Interaction Costs: How much effort is required to update payment statuses or view details on a payment’s history?
-  - Usability and Effectiveness: Do design elements (like color coding, labels, or grouped actions) assist the user in tracking and managing payments effectively?
-  - Notifications and Alerts: Are reminders or alerts sent for overdue payments or upcoming due dates? How are these alerts displayed, and can they be customized?
+  - **Task Simplification:** Does the app make it easy to distinguish between paid, unpaid, and overdue invoices at a glance?
+  - **Cognitive Load:** How intuitively are payment statuses displayed? Are users likely to understand statuses without extra interpretation?
+  - **Interaction Costs:** How much effort is required to update payment statuses or view details on a payment’s history?
+  - **Usability and Effectiveness:** Do design elements (like color-coding, labels, or grouped actions) assist the user in tracking and managing payments effectively?
+  - **Notifications and Alerts:** Are reminders or alerts sent for overdue payments or upcoming due dates? How are these alerts displayed, and can they be customized?
 - Expense overview
   - Is there a cognitive load involved in this task?
   - Are there any interaction costs involved with this task?
