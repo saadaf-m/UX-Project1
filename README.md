@@ -117,35 +117,18 @@ Below are focal points of each product I will evaluate for their effectiveness a
   - **Interaction Costs:** Are there extra steps or confusing settings involved in creating meaningful reports?
   - **Effectiveness in Visual Design:** Are the visualizations (charts, graphs) easy to interpret? Is there flexibility in format without compromising simplicity?
 
-### 2. Analyzing User Interface and Interaction Patterns
-- Document recurring UX/UI patterns that are small business-friendly and evaluate how these patterns add value to the user experience such as:
-  - quick-access buttons
-  - quick-action menu
-  - status icons
-  - dashboard summaries
-  - dynamic search and filtering
-  - personalized insights
-    - (e.g., highest-paying client, profit/expenses today/last wk, profit/expenses today vs. yday, etc.)
-  - Tooltips
-  - Mobile: Is it mobile-friendly?
-    - Does it have elements like larger buttons?
-    - Is the navigation simplified?
-    - Are common actions easy to access or streamlined?
-- Take note of colour coding for status updates and evaluate how this adds value to the user experience.
-- Take note of layout choices that aid in quick decision-making and evaluate how this adds value to the user experience.
-  - How easily could a non-expert navigate and complete tasks?
- 
-### 3. Assess Accessibility and Mobile Optimization
-- Is the usability on mobile and desktop equally intuitive?
-- Is the mobile workflow of tasks more optimized? When answering, consider:
-  - Simplified navigation?
-  - Task execution requires equal or less clicks?
-- Are there any features that enhance mobile interaction? (Note that by "enhance", I mean designing features or layouts that make using the app on mobile devices easy, efficient, and enjoyable. For example for an invoicing app, this involves adapting the interface to support tasks on smaller screens and touch interactions, ensuring that the experience is smooth and free from common mobile usability issues.) Below describe some features and layouts that improve or "enhance" mobile interaction:
-  - Responsive Layout: Does it adapt to various screen sizes, use touch-friendly buttons, larger fonts?
-  - Sticky Navigation
-  - Gesture-Based Interaction: Does it have swipe-to-delete or swipe-to-archive type actions?
-  - Quick-Add Buttons: Floating "+" button without having to navigate to another screen? Predict next interaction?
-  - Thumb-Friendly Design
+### 2. Additional Patterns and Interaction Optimization
+Document recurring UX/UI patterns that are small business-friendly and evaluate how these patterns add value to the user experience such as:
+
+- Simplification of Repetitive Tasks Across Features
+  - Reusability: Can templates, autofill options, or data pre-population enhance speed and reduce errors?
+  - Consistency in Interaction: Do similar tasks (e.g., adding an expense vs. creating an invoice) follow consistent interaction patterns
+- Mobile Interaction Enhancement
+  - Responsiveness and Adaptability: How well does the mobile experience retain core functionality without overwhelming smaller screens?
+  - Gesture and Touch Optimization: Are primary actions optimized for mobile interactions, such as swipe actions, tap zones, and simplified input fields?
+- Error Prevention and Support
+  - Error Feedback: How effectively does the app prevent user errors (e.g., invalid entries, missed fields) and provide actionable guidance
+  - Supportive Prompts and Tutorials: Is there in-context help to guide users through complex tasks without disrupting their flow?
 
 ### 4. Identify Strengths, Pain Points, and Opportunities for Optimization
 - Make a list of standout features or strengths and make another list for friction points or overly complex workflows.
