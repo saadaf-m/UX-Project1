@@ -130,12 +130,12 @@ Document recurring UX/UI patterns that are small business-friendly and evaluate 
   - Error Feedback: How effectively does the app prevent user errors (e.g., invalid entries, missed fields) and provide actionable guidance
   - Supportive Prompts and Tutorials: Is there in-context help to guide users through complex tasks without disrupting their flow?
 
-### 4. Identify Strengths, Pain Points, and Opportunities for Optimization
+### 3. Identify Strengths, Pain Points, and Opportunities for Optimization
 - Make a list of standout features or strengths and make another list for friction points or overly complex workflows.
   - For each pt. in list 2, consider: Are ways that each point could be simplified without sacrificing functionality?
 - Highlight any gaps where an opportunity exists to improve or simplify the experience.
 
-### 5. Conclusion: Synthesize UX Pattern Findings into Actionable Insights
+### 4. Conclusion: Synthesize UX Pattern Findings into Actionable Insights
 - Summarize common patterns or design approaches that provide a strong user experience **for** small business owners.
   - Common patterns/design approaches such as the use of icons, navigation layouts, dashboard configurations that prioritize clarity.
 - Note unique or creative solutions that competitors use to address small busines challenges (e.g., quick-glance financial summary). These can inform potential features or patterns that you could adapt to your design.
